@@ -1,0 +1,12 @@
+.idea/
+
+target/
+
+data/mysql_cmds.sh
+data/game_list.csv
+data/player_list.csv
+data/play_event_list_all.csv
+
+manifest.json
+pio.log
+pio.sbt
